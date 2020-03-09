@@ -1,0 +1,11 @@
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.exe.config
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.exe
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.pdb
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.csprojAssemblyReference.cache
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.Form1.resources
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.Properties.Resources.resources
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.csproj.GenerateResource.cache
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.csproj.CopyComplete
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.exe
+C:\Users\mostafa alabyed\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.pdb
